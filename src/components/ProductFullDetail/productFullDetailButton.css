@@ -1,0 +1,4 @@
+.root {
+    composes: root from '~@magento/venia-ui/lib/components/Button/button.css';
+    border-radius: 0rem;
+}
